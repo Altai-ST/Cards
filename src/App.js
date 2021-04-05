@@ -1,10 +1,8 @@
-//import {LifeCycle} from './components/LifeCycle'
-import {Counter} from './components/Counter'
-
+import {Product} from './components/Product'
 export const App =()=> {
   return (
     <div className="App">
-      <Counter/>
+      <Product/>
     </div>
   );
 }

@@ -1,0 +1,12 @@
+.btn{
+    width: 150px;
+    margin: 20px;
+    background-color: violet;
+    padding: 10px;
+}
+.head{
+    text-align: center;
+}
+.box{
+    display: flex;
+}
