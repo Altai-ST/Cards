@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cards/static/css/main.3bc63e3a.chunk.css",
+    "main.js": "/Cards/static/js/main.31075811.chunk.js",
+    "main.js.map": "/Cards/static/js/main.31075811.chunk.js.map",
+    "runtime-main.js": "/Cards/static/js/runtime-main.dba26544.js",
+    "runtime-main.js.map": "/Cards/static/js/runtime-main.dba26544.js.map",
+    "static/js/2.ce1bac9c.chunk.js": "/Cards/static/js/2.ce1bac9c.chunk.js",
+    "static/js/2.ce1bac9c.chunk.js.map": "/Cards/static/js/2.ce1bac9c.chunk.js.map",
+    "index.html": "/Cards/index.html",
+    "static/css/main.3bc63e3a.chunk.css.map": "/Cards/static/css/main.3bc63e3a.chunk.css.map",
+    "static/js/2.ce1bac9c.chunk.js.LICENSE.txt": "/Cards/static/js/2.ce1bac9c.chunk.js.LICENSE.txt",
+    "static/media/Pen.e4b9f190.png": "/Cards/static/media/Pen.e4b9f190.png",
+    "static/media/apple.6656a9ab.jpg": "/Cards/static/media/apple.6656a9ab.jpg",
+    "static/media/cola.045f48e1.jpg": "/Cards/static/media/cola.045f48e1.jpg",
+    "static/media/nout.72dd2ac9.png": "/Cards/static/media/nout.72dd2ac9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dba26544.js",
+    "static/js/2.ce1bac9c.chunk.js",
+    "static/css/main.3bc63e3a.chunk.css",
+    "static/js/main.31075811.chunk.js"
+  ]
+}
